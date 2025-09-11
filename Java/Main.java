@@ -6,6 +6,9 @@ public class Main{
         String name = "Akathiyan";
 
         System.out.println("Age: " + age + ", Weight: " + weight + ", Initial_name: " + initial_name + ", Name: " + name);
+
+      
+
         
 
     }
